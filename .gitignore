@@ -1,0 +1,18 @@
+# Local repo metadata from the original manifest checkout.
+.repo/
+
+# Large generated board/system artifacts.
+rootfs/
+snapshot/
+*.elf
+*.img
+*.bin
+*.itb
+*.dtb
+lkvm
+
+# Build/log scratch files.
+*.log
+*.tmp
+*.tar.gz
+*.deb
