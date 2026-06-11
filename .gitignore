@@ -5,6 +5,7 @@
 rootfs/
 snapshot/
 *.elf
+*.elf.generated
 *.img
 *.bin
 *.itb
